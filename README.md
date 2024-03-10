@@ -4,6 +4,8 @@
 대규모 언어 모델(LLM), 이미지 및 오디오 생성, 멀티 모달 AI 등 특정 분야에 국한되지 않고 폭넓은 지식 교류를 목표로 합니다.
 매주 온라인으로 진행되며 AI에 관심 있는 분은 누구든지 참여하실 수 있습니다.
 
+Latest Seminar: [24/03/10](https://github.com/junhwi/next-gen-ai/issues/15)
+
 ## Overview
 
 - 매주 일요일 저녁 11시 (약 1시간)
